@@ -5,7 +5,7 @@
 #include <math.h>
 #define PI 3.14
 
-//Funkcija za povrsine baze prizme.
+//Funkcija za povrsine baze piramide.
 float povrsina(int a,int h){
 	
 	//Bazu racunamo kao da je cetverostrana piramida.
