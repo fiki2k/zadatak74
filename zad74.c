@@ -9,7 +9,7 @@
 float povrsina(int a,int h){
 	
 	//Bazu racunamo kao da je cetverostrana piramida.
-	double B= (1.0/3.0) *h* (a*a);
+	double B=a*a;
 	return B;
 }
 
